@@ -1,0 +1,9 @@
+# LifeFlow – robots.txt
+# https://www.pi78.ink
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://www.pi78.ink/sitemap.xml

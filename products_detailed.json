@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "product_id": "pdt_0NZ3mvlOxzXZRzMUZtEGW",
+      "business_id": "bus_0NZ1k6m318R56lA3xTr3h",
+      "name": "Basic",
+      "description": "this isv best",
+      "image": null,
+      "created_at": "2026-02-22T16:21:17.849102Z",
+      "updated_at": "2026-02-22T16:33:54.202481Z",
+      "is_recurring": true,
+      "tax_category": "saas",
+      "price": 10,
+      "currency": "USD",
+      "tax_inclusive": false,
+      "price_detail": {
+        "type": "recurring_price",
+        "price": 10,
+        "currency": "USD",
+        "tax_inclusive": false,
+        "discount": 0,
+        "purchasing_power_parity": false,
+        "payment_frequency_count": 1,
+        "payment_frequency_interval": "Month",
+        "subscription_period_count": 10,
+        "subscription_period_interval": "Year",
+        "trial_period_days": 0
+      },
+      "metadata": {}
+    }
+  ]
+}

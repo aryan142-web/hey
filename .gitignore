@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+.vscode/
+build/
+*.log
+package-lock.json
+build_log.txt
